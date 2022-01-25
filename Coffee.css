@@ -1061,13 +1061,16 @@ footer{
         margin-top: 3%;
     }
     .Press{
-        margin-left: 29%;
+        margin-left: 27%;
     }
     .Pour-Over{
-        margin-left: 38%;
+        margin-left: 36%;
+    }
+    .Iced{
+        margin-left: 44%;
     }
     .Brew{
-        margin-left: 61%;
+        margin-left: 55%;
     }
     /* Coffee press ends*/
 
@@ -1598,17 +1601,19 @@ footer{
 }
 .coffeeLinks{
     margin-top: -2%;
+    margin: space-between;
 }
 .Press{
     margin-left: -3%;
     font-size: 11px;
+    padding-right: 21px;
 }
 .Pour-Over{
-    margin-left: 13%;
+    margin-left: 17%;
     font-size: 11px;
 }
 .Iced{
-    margin-left: 35%;
+    margin-left: 37%;
     font-size: 11px;
 }
 .Brew{
