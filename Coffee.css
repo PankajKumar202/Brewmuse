@@ -513,7 +513,7 @@ font-weight: 600;
     min-height:45px;
     line-height:100px;
     background-position:0 -56px; 
-    padding:50px 0px 0px 0px;
+    padding:50px 11px 0px 0px;
     
     
     
@@ -521,7 +521,7 @@ font-weight: 600;
 
 .Press:hover{
     background-position:0 -536px;
-    animation:htbSpriteMobile .6s steps(4) forwards;
+    animation:htbSpriteMobile .5s steps(4) forwards;
     background-repeat:no-repeat;
     font-weight: 400;
 }
@@ -546,12 +546,12 @@ font-weight: 600;
    min-height:45px;
    line-height:100px;
    background-position:0 -56px; 
-   padding:50px 0px 0px 0px;
+   padding:50px 11px 0px 0px;
     
 }
 .Pour-Over:hover{
     background-position:0 -536px;
-    animation:htbSpriteMobile .6s steps(4) forwards;
+    animation:htbSpriteMobile .5s steps(4) forwards;
     background-repeat:no-repeat;
 }
 @keyframes htbSpriteMobile{
@@ -576,12 +576,12 @@ font-weight: 600;
    min-height:45px;
    line-height:100px;
    background-position:0 -56px; 
-   padding:50px 0px 0px 0px;
+   padding:50px 11px 0px 0px;
   
 }
 .Iced:hover{
     background-position:0 -536px;
-    animation:htbSpriteMobile .6s steps(4) forwards;
+    animation:htbSpriteMobile .5s steps(4) forwards;
     background-repeat:no-repeat;
     font-weight: 400;
 }
@@ -605,12 +605,12 @@ font-weight: 600;
    min-height:45px;
    line-height:100px;
    background-position:0 -56px; 
-   padding:50px 0px 0px 0px;
+   padding:50px 11px 0px 0px;
   
 }
 .Brew:hover{
     background-position:0 -536px;
-    animation:htbSpriteMobile .6s steps(4) forwards;
+    animation:htbSpriteMobile .5s steps(4) forwards;
     background-repeat:no-repeat;
     font-weight: 400;
 }
