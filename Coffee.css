@@ -770,7 +770,7 @@ footer{
 /* Footer Links in Responsive Design Ends */
 
 /* Code for responsive designing using Media Query*/
-@media screen and (max-width: 1600px){
+@media screen and (max-width: 2000px){
     #accordionFooter{
         visibility: hidden;
     }
