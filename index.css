@@ -698,7 +698,7 @@ footer{
 
 /* Code for responsive designing using Media Query*/
 
-@media screen and (max-width: 2000px){
+@media screen and (max-width: 1600px){
     #accordionFooter{
         visibility: hidden;
     }

@@ -721,50 +721,35 @@ footer{
 .articleBlock{
     padding-top:32px;
     margin-left:3%;
-    /* border: 2px solid black; */
     width: 80%;
-    /* display: inline; */
 }
 .articleHeading{
-    /* margin-left:3%; */
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: normal;
-    /* border: 2px solid black;/ */
     font-size: 34px;
     display: inline;
 }
 .summaryHead{
-    /* margin-left: 3%; */
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: normal;
-    /* border: 2px solid black; */
     font-size: 20px;
     width: 80%;
 }
 .image{
-    /* margin-left: 3%; */
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: normal;
-    /* border: 2px solid black; */
     width:42.5%;
-    
 }
 .paraText{
-    /* margin-left: 3%; */
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: normal;
     padding-top: 10px;
     padding-bottom: 10px;
     width: 80%;
     font-size: 15px;
-    /* border: 2px solid black; */
-
 }
 .community{
     margin-left:3%;
-    /* border:2px solid black; */
-   
-    
 }
 .comHeadline{
     color:green;
@@ -776,24 +761,18 @@ footer{
 }
 .Environment{
     margin-left:3%;
-    /* border:2px solid black; */
-    
 }
 .envHeadline{
     color:green;
 }
 .ethicalSource{
     margin-left:3%;
-    /* border:2px solid black; */
-    
 }
 .ethHeadline{
     color:green;
 }
 .Diversity{
     margin-left:3%;
-    /* border:2px solid black; */
-    
 }
 .divHeadline{
     color:green;
@@ -817,47 +796,35 @@ footer{
         height:230px;
         width:70%;
     }
-   /*  .community{
-        padding-bottom:80px;
-    } */
     .comPara{
         margin-top:5%;
     }
 }
 @media screen and (min-width:400px) and (max-width:600px){
-   .image>img{
+    .image>img{
        width:230%;
-   } 
+    } 
     .summaryHead{
         font-size:19px;
     }
-     /*  .community{
-        padding-bottom:80px;
-    } */
-     .comImage>img{
+    .comImage>img{
         height:230px;
         width:90%;
     }
-     /*  .comPara{
-        margin-top:35%;
-    } */
 }
 @media screen and (min-width:250px) and (max-width:400px){
    .image>img{
        width:220%;
-   } 
+    } 
     .summaryHead{
         font-size:14px;
     }
     /* community */
     .comHeadline{
-        /* border:2px solid black; */
         display:inline
     }
     .comPara{
-        /* border:2px solid black; */
         width:70%;
-        /* padding-bottom:90px; */
         margin-top:2%;
     }
     .comImage>img{
@@ -866,33 +833,24 @@ footer{
         margin-top:3%;
     }
     .envPara{
-        /* border:2px solid black; */
         width:70%;
-        /* padding-bottom:90px; */
         margin-top:2%;
     }
       .envHeadline{
-        /* border:2px solid black; */
         display:inline
     }
       .ethPara{
-        /* border:2px solid black; */
         width:70%;
-        /* padding-bottom:90px; */
         margin-top:2%;
     }
      .ethHeadline{
-        /* border:2px solid black; */
         display:inline
     }
         .divPara{
-        /* border:2px solid black; */
         width:70%;
-        /* padding-bottom:90px; */
         margin-top:2%;
     }
      .divHeadline{
-        /* border:2px solid black; */
         display:inline
     }
 }

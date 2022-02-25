@@ -47,6 +47,7 @@ function mouseOutAboutUs(){
 }
 
 // Geolocation and Weather
+
 let Geolocation=()=>{
   
     if (navigator.geolocation) {
